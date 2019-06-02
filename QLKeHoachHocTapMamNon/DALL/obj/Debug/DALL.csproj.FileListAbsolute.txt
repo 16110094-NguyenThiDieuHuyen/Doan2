@@ -1,0 +1,12 @@
+E:\DA2\QLKeHoachHocTapMamNon\DALL\bin\Debug\DALL.dll.config
+E:\DA2\QLKeHoachHocTapMamNon\DALL\bin\Debug\DALL.dll
+E:\DA2\QLKeHoachHocTapMamNon\DALL\bin\Debug\DALL.pdb
+E:\DA2\QLKeHoachHocTapMamNon\DALL\bin\Debug\EntityFramework.dll
+E:\DA2\QLKeHoachHocTapMamNon\DALL\bin\Debug\EntityFramework.SqlServer.dll
+E:\DA2\QLKeHoachHocTapMamNon\DALL\bin\Debug\EntityFramework.xml
+E:\DA2\QLKeHoachHocTapMamNon\DALL\bin\Debug\EntityFramework.SqlServer.xml
+E:\DA2\QLKeHoachHocTapMamNon\DALL\obj\Debug\DALL.csprojResolveAssemblyReference.cache
+E:\DA2\QLKeHoachHocTapMamNon\DALL\obj\Debug\DALL.csproj.CoreCompileInputs.cache
+E:\DA2\QLKeHoachHocTapMamNon\DALL\obj\Debug\DALL.csproj.CopyComplete
+E:\DA2\QLKeHoachHocTapMamNon\DALL\obj\Debug\DALL.dll
+E:\DA2\QLKeHoachHocTapMamNon\DALL\obj\Debug\DALL.pdb

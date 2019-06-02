@@ -1,0 +1,14 @@
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\bin\Debug\BLL2.dll
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\bin\Debug\BLL2.pdb
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\bin\Debug\DALL.dll
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\bin\Debug\EntityFramework.dll
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\bin\Debug\EntityFramework.SqlServer.dll
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\bin\Debug\DALL.pdb
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\bin\Debug\DALL.dll.config
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\bin\Debug\EntityFramework.xml
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\bin\Debug\EntityFramework.SqlServer.xml
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\obj\Debug\BLL2.csprojResolveAssemblyReference.cache
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\obj\Debug\BLL2.csproj.CoreCompileInputs.cache
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\obj\Debug\BLL2.csproj.CopyComplete
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\obj\Debug\BLL2.dll
+E:\DA2\QLKeHoachHocTapMamNon\BLL2\obj\Debug\BLL2.pdb

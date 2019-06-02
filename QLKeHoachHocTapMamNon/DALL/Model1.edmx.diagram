@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ae5ef6f2b1424b848385b138321bab87" Name="Diagram1">
+        <EntityTypeShape EntityType="QLKHHTMNModel.ChuongTrinhHoc" Width="1.5" PointX="5.25" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKHHTMNModel.DanhGiaHocSinhNam" Width="1.5" PointX="7.5" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKHHTMNModel.DanhGiaHocSinhTuan" Width="1.5" PointX="10.5" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKHHTMNModel.GiaoVien" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKHHTMNModel.HocSinh" Width="1.5" PointX="5.25" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKHHTMNModel.Lop" Width="1.5" PointX="3" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKHHTMNModel.PhieuKhamSucKhoe" Width="1.5" PointX="7.5" PointY="19.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKHHTMNModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_ChuongTrinhHoc_GiaoVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_ChuongTrinhHoc_Lớp" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_DanhGiaHocSinhNam_GiaoVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_DanhGiaHocSinhNam_HocSinh" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_DanhGiaHocSinhTuan_GiaoVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_DanhGiaHocSinhTuan_HocSinh" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_Lớp_GiaoVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_Lớp_GiaoVien1" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_HocSinh_Lớp" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKHHTMNModel.FK_PhieuKhamSucKhoe_HocSinh" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
